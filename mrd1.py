@@ -113,9 +113,9 @@ def login():
     print logo1
     print "\033[1;93m[1]\x1b[1;92m continue"
     time.sleep(0.05)
-    print "\033[1;93m[2]\x1b[1;92m BACK"
+    print "\033[1;93m[2]\x1b[1;92m EXIT"
     time.sleep(0.05)
-    print '\x1b[1;93m[0]\033[1;92m EXIT"
+    print '\x1b[1;93m[0]\033[1;92m BACK"
     pilih_login()
  
 def pilih_login():
