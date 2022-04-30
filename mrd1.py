@@ -82,20 +82,21 @@ os.system("clear")
 ####Logo####
  
 logo1 = """
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋
-╭━╮╭━╮━━━╮━━━╮
-┃┃╰╯┃┃╭━╮┃╮╭╮┃
-┃╭╮╭╮┃╰━╯┃┃┃┃┃
-┃┃┃┃┃┃╭╮╭╯┃┃┃┃
-┃┃┃┃┃┃┃┃╰╮╯╰╯┃
-╰╯╰╯╰╯╰━╯  ━━━╯
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋
-       
+                                        
+*@@@@m     m@@@**@@@***@@m  *@@@***@@m  
+  @@@@    @@@@    @@   *@@m   @@    *@@m
+  @ @@   m@ @@    @@   m@@    @@     *@@
+  @  @!  @* @@    !@@@@@@     @@      @@
+  !  @!m@*  @@    !@  @@m     @!     m@@
+  !  *!@*   @@    !@   *!@    @!     m@!*
+  !  !!!!*  !!    !@  ! !!    !!     !!!
+  :  *!!*   !!    !!   *!!!   !:    !!:*
+  : ::: :   : ::: : :!:  : : :: : : : :                                                                                        
 ╔══──────────────────────────╗
-  AUTHOR   : MR. DEVIL
-  GITHUB   : Mrdevilbrand       
-  MR.DEVIL : PROGRAMMER && DARK HACKER
-  Tool name MRD version 1.0.4
+  :AUTHOR  : MR. DEVIL
+  :GITHUB  : Mrdevilbrand       
+  :MR.DEVIL: PROGRAMMER && DARK HACKER
+   《Tool name MRD version 1.0.4》
 ╚══──────────────────────────╝
  ⚡Mr.devile lord of dark world ⚡
 """
