@@ -93,11 +93,11 @@ logo1 = """
   :  *!!*   !!    !!   *!!!   !:    !!:*
   : ::: :   : ::: : :!:  : : :: : : : :                                                                                        
 ╔══──────────────────────────╗
- 《welcome to free cloning》
+《welcome to free cloning》
   :AUTHOR  : MR. DEVIL
   :GITHUB  : Mrdevilbrand       
   :MR.DEVIL: PROGRAMMER && DARK HACKER
- 《Tool name MRD version 1.0.4》
+《Tool name MRD version 1.0.4》
 ╚══──────────────────────────╝
  ⚡Mr.devile lord of dark world ⚡
 """
@@ -113,9 +113,9 @@ def login():
     print logo1
     print "\033[1;93m[1]\x1b[1;92m continue"
     time.sleep(0.05)
-    print "\033[1;93m[2]\x1b[1;92m EXIT "
+    print "\033[1;93m[2]\x1b[1;92m BACK"
     time.sleep(0.05)
-    print '\x1b[1;93m[0]\033[1;92m BACK '
+    print '\x1b[1;93m[0]\033[1;92m EXIT"
     pilih_login()
  
 def pilih_login():
