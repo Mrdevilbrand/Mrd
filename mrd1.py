@@ -100,8 +100,8 @@ logo = """
   《WELCOME to DEVIL'S world▪▪▪▪▪》
    Mr.devil professional Hacking tool maker                                                                        
  ​______________________________________________
- ​AUTHOR   :MR.DEVIL 
-  TOOL nm  :MRD version 2.0.1
+ ​AUTHOR   :MR.DEVIL 
+ TOOL nm  :MRD version 2.0.1
  ​MR DEVIL :PROGRAMMER & DARK HACKER 
  ​MR DEVIL :LORD OF DARK WORLD 
  ​______________________________________________
