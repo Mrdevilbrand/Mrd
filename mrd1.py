@@ -97,7 +97,7 @@ logo = """
    ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒  ▒▒   ▒▒ 
    ▓▓  ▓▓   ▓▓ ▓▓  ▓▓  ▓▓   ▓▓ 
    ██        ██ ██   ██ ██████  
-  《WELCOME to DEVIL'S world▪▪▪▪▪》
+  《WELCOME to DEVIL'S world▪▪▪▪▪▪》
    Mr.devil professional Hacking tool maker                                                                        
  ​______________________________________________
  ​AUTHOR   :MR.DEVIL 
