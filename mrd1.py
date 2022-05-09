@@ -161,7 +161,7 @@ def action():
     jalan ('\x1b[1;97mUse airplane mode for 5sec after every 10 mint')
     print(47*'-')
     xxx = str(len(id)
-    jalan('\x1b[1;97m              TOTAL IDS :\x1b[1;95m ' + xxx)
+    jalan('\x1b[1;97m              TOTAL IDS :\x1b[1;95m ' + xxx')
     print(47*'-')
     def main(arg):
         user = arg
