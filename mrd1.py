@@ -101,9 +101,9 @@ logo = """
 \033[0;95m═══════════════════════════════════════════                                             
  ​______________________________________________
  ​\033[1;92mAUTHOR  : \033[1;93m MR.DEVIL 
- \033[1;92m TOOL nm: \033[1;93m MRD version 1.0.3
+ \033[1;92mTOOL nm  : \033[1;93m MRD version 1.0.3
  ​\033[1;92mMR DEVIL: \033[1;93m PROGRAMMER & DARK HACKER 
- ​\033[1;92m  《MR.DEVIL, LORD OF DARK WORLD》 
+​\033[1;92m<<<《MR.DEVIL, LORD OF DARK WORLD》>>> 
  ​______________________________________________
  ​                                                 """ 
 logo1 = '   \n\n\x1b[4;96mSELECT PAK  SIM CODE \x1b[1;0m\n\x1b[1;96m[1] Jazz    \x1b[1;97m 00,01,02,03,04,05,06,07,08\n\x1b[1;96m[2] Zong    \x1b[1;97m 11,12,13,14,15,16,17\n\x1b[1;96m[3] Warid   \x1b[1;97m 21,22,23,24,25\n\x1b[1;96m[4] Ufone   \x1b[1;97m 30,31,32,33,34,35\n\x1b[1;96m[5] Telenor \x1b[1;97m 40,41,42,43,44,45,46,47\n\n\n\n\x1bx \x1b[1;97m\x1b[1;0m\n'
