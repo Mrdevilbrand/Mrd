@@ -100,9 +100,9 @@ logo = """
 \033[1;91m  《MR.DEVIL, LORD OF DARK WORLD》 
 \033[0;95m═══════════════════════════════════════════                                             
  ​______________________________________________
- ​\033[1;92mAUTHOR    :      \033[1;93m MR.DEVIL 
- \033[1;92m TOOL nm  :      \033[1;93m MRD version 1.0.3
- ​\033[1;92mMR DEVIL  :      \033[1;93m PROGRAMMER & DARK HACKER 
+ ​\033[1;92mAUTHOR  : \033[1;93m MR.DEVIL 
+  \033[1;92m TOOL nm: \033[1;93m MRD version 1.0.3
+ ​\033[1;92mMR DEVIL: \033[1;93m PROGRAMMER & DARK HACKER 
  ​\033[1;92m  《MR.DEVIL, LORD OF DARK WORLD》 
  ​______________________________________________
  ​                                                 """ 
