@@ -12,11 +12,8 @@ https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-or
 #[8] $cd mrd
 #[9] $python2 mrd1.py
 
-User name/pass?? no need 👍
+User NAMES?? DARK 
+pass?? HACKER 👍
 Enjoy free cloning 👍
-
-![20220430_183804](https://user-images.githubusercontent.com/103495827/166110144-2c0b73a1-6af0-4e54-b302-aae31d8b8427.jpg)
-
-![20220430_194136](https://user-images.githubusercontent.com/103495827/166110158-737c3cf4-fb16-46ba-8de0-043bff44b489.jpg)
 
 
