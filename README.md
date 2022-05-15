@@ -12,8 +12,7 @@ https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-or
 #[8] $cd mrd
 #[9] $python2 mrd1.py
 
-User NAMES?? DARK 
-pass?? HACKER 👍
+tool key ? D4RKH4CK3R
 Enjoy free cloning 👍
 
 
