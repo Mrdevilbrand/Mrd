@@ -230,7 +230,7 @@ def action():
     print 'Total CP : ' + str(len(cpb))
     print(47*"-")
     print 'Cloned Accounts Has Been Saved : save/cloned.txt'
-    jalan('Note : Cp account open after 8 to 10 days)
+    jalan('Note : Cp account open after 8 to 10 days')
     raw_input('\n\x1b[1;95m[\x1b[1;98mMRD_menu_Back\x1b[1;95m]')
     login()
 
