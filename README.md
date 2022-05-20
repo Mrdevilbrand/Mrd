@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+
 # mrd free cloning tool
 
 #[1] $apt update && apt upgrade -y 
@@ -16,3 +16,4 @@ tool key ? D4RKH4CK3R
 Enjoy free cloning 👍
 
 
+![20220521_004023](https://user-images.githubusercontent.com/103495827/169600184-1300390a-1e78-473f-b07f-0d847e157fee.jpg)
